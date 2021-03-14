@@ -6,7 +6,7 @@ Assisted with refactoring website html and css coding to ensure additional acces
 ************************************************
 [Horiseon Home Page](https://tracye1083.github.io/Homework-Week-01/)
 ************************************************
-![Preview of Updated Home Page](assets\images\website.png)
+![Preview of Updated Home Page](assets/images/website.png)
 ************************************************
 **REVISIONS**
 
