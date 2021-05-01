@@ -4,7 +4,7 @@ Home page for Horiseon, marketing company assisting clients with products and se
 
 Assisted with refactoring website html and css coding to ensure additional accessibility standards were met for Horiseon's home page. 
 ************************************************
-[Horiseon Home Page](https://tracye1083.github.io/Homework-Week-01/)
+[Horiseon Home Page](https://tracye1083.github.io/Horiseon-Home-Page/)
 ************************************************
 ![Preview of Updated Home Page](assets/images/website.png)
 ************************************************
